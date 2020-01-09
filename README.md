@@ -1,1 +1,1 @@
-# scauting2
+# Scauting
