@@ -11,7 +11,7 @@ Objective: Using a voucher to do a transaction is one of the core functionalitie
 
 # Environment
 
-* Branch: Release **{insert version number here}**
+* Branch: Release v0.8.2
 * Database: Staging
 
 # Pre-conditions
@@ -22,8 +22,6 @@ Objective: Using a voucher to do a transaction is one of the core functionalitie
 # Direct URL(s)
 
 1. https://staging.berkelland.forus.io
-2. https://staging.winterswijk.forus.io
-3. https://staging.oostgelre.forus.io
 
 # Input data
 
