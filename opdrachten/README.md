@@ -23,14 +23,15 @@ Nadat je het budget hebt ontvangen ga je een aanbieding reserveren via de websho
 
 | Activatiecodes | Gebruikt? |
 |----------------|-----------|
-| 0000-0000      |           |
-| 0000-0000      |           |
-| 0000-0000      |           |
-| 0000-0000      |           |
-| 0000-0000      |           |
-| 0000-0000      |           |
-| 0000-0000      |           |
-| 0000-0000      |           |
+| 6b71-7ce8      |           |
+| 66ee-11ee      |           |
+| 576f-aff2      |           |
+| 212b-34e7      |           |
+| 2456-9167      |           |
+| 810e-6c96      |           |
+| a15c-4b43      |           |
+| 04af-d00c      |           |
+| 119d-4f14      |           |
 
 </details>
 
@@ -67,10 +68,9 @@ De bijbehorende werkzaamheden kun je op [GitHub](https://github.com) vinden.
 
 | Werkzaamheden | Link |
 |----------------|-----------|
-| **Testen**      |    [GitHub](https://github.com)       |
-| **Handleidingen schrijven**     |   [GitHub](https://github.com)        |
-| **Designen**      |     [GitHub](https://github.com)      |
-| **Development**      |      [GitHub](https://github.com)     |
+| **Testen**      |    [GitHub - Testen](https://github.com/teamforus/scauting/tree/master/testen)       |
+| **Handleidingen schrijven**     |   [GitHub - Handleiding](https://github.com/teamforus/scauting/tree/master/handleiding)        |
+| **Designen**      |     [GitHub - Designen](https://github.com/teamforus/scauting/tree/master/design)      |
 
 ### Waar kan je terecht voor vragen?
 - Rocket.Chat:
