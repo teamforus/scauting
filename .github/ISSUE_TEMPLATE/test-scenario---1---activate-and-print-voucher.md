@@ -38,7 +38,7 @@ Objective: Activating and printing the voucher code is one of the core functiona
 
 **<details><summary> Click here to open the list of activation codes!</summary>**
 
-| Activatiecodes | Gebruikt? |
+| Activation codes | Used? |
 |----------------|-----------|
 | 88b0-c244      |           |
 | c8e5-0ea4      |           |
