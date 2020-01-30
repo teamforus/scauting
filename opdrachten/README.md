@@ -12,9 +12,10 @@ De opdrachten zijn gebasseerd op de ervaring van daadwerkelijke eindgebruikers. 
 Je bent een inwoner van de gemeente Berkelland en hebt een toekenningsbrief gekregen voor de Kindregelingen. Jij gaat het budget van de Kindregelingen activeren door gebruik te maken van de activatiecode in de brief. 
 Nadat je het budget hebt ontvangen ga je een aanbieding reserveren via de webshop. Tot sot ga je de reservering verzilveren bij de organisatie die het aanbod heeft geplaatst.
 
+
 **<details><summary> Klik hier om de brief te openen! </summary>**
 
-
+<img src="https://user-images.githubusercontent.com/36952230/72791759-2bdd9b00-3c38-11ea-8802-ef9f37ae5364.png">
 
 </details>
 
