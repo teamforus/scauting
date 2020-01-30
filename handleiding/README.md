@@ -83,9 +83,9 @@ Houd rekening met de volgende tijdens het schrijven van een handleiding:<br>
 
 > TIP! Bekijk onderstaande links om een beeld te krijgen hoe andere bedrijven dit doen.
 
-[Zoho helpcentrum](https://help.zoho.com/portal/kb/articles/setting-up-your-email-channel#Default_Support_Mailbox)
-[Apple helpcentrum](https://support.apple.com/en-us/HT207230)
-[Google helpcentrum](https://support.google.com/a/answer/33561?hl=nl&ref_topic=7570177)
+[Zoho helpcentrum](https://help.zoho.com/portal/kb/articles/setting-up-your-email-channel#Default_Support_Mailbox)<br>
+[Apple helpcentrum](https://support.apple.com/en-us/HT207230)<br>
+[Google helpcentrum](https://support.google.com/a/answer/33561?hl=nl&ref_topic=7570177)<br>
 
 ### Werkinstructies
 1. [Github](https://github.com/teamforus/scauting/issues)
