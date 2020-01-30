@@ -9,23 +9,6 @@ _Platform Forus_ is een digitaal platform voor waarde-uitkering. Het doel van he
 
 Ben je geïnteresseerd in de ontwikkeling van onze producten? Je kunt de code inzien en de voortgang volgen via onze GitHub-pagina. https://github.com/teamforus
 
-
-## Korte terugblik
-Het is alweer een tijdje geleden dat Forus op bezoek is geweest bij Scauting. Het was erg gezellig en leuk, daarnaast hebben we natuurlijk ook voorbereidingen gedaan om aan de slag te kunnen. Bij deze bijeenkomst hebben we verteld over de opdrachten en hebben we de benodigde accounts aangemaakt. 
-
-Tijdens de bijeenkomsten hebben jullie:
-
-- Een demo van ons systeem gekregen.
-- Aangegeven welke werkzaamheden jullie willen uitvoeren.
-- Rocket.Chat accounts aangemaakt zodat we één centrale plek met elkaar hebben om te communiceren.
-- GitHub accounts aangemaakt zodat we één centrale plek hebben om te werken.
-- De eerste bijdrage aan ons systeem geleverd!
-
-Ben je niet bij deze bijeenkomst geweest? Geen probleem, je kan op een later moment ook eenvoudig aanhaken!
-
-**Klik hier om te lezen hoe je kan aanhaken!**
-</details>
-
 ## Systeem
 We hebben de Meedoen-regeling voor de gemeente Nijmegen en de Meedoenapplicatie voor de Sociale Dienst Oost Achterhoek via het platform uitgegeven.
 
@@ -40,6 +23,21 @@ In 2019 hebben we voor de gemeente Nijmegen de Meedoen-regeling via het platform
 - https://berkelland.forus.io/
 - https://oostgelre.forus.io/
 - https://winterswijk.forus.io/
+
+## Korte terugblik
+Het is alweer een tijdje geleden dat Forus op bezoek is geweest bij Scauting. Het was erg gezellig en leuk, daarnaast hebben we natuurlijk ook voorbereidingen gedaan om aan de slag te kunnen. Bij deze bijeenkomst hebben we verteld over de opdrachten en hebben we de benodigde accounts aangemaakt. 
+
+Tijdens de bijeenkomsten hebben jullie:
+
+- Een demo van ons systeem gekregen.
+- Aangegeven welke werkzaamheden jullie willen uitvoeren.
+- Rocket.Chat accounts aangemaakt zodat we één centrale plek met elkaar hebben om te communiceren.
+- GitHub accounts aangemaakt zodat we één centrale plek hebben om te werken.
+- De eerste bijdrage aan ons systeem geleverd!
+
+Ben je niet bij deze bijeenkomst geweest? Geen probleem, je kan op een later moment ook eenvoudig aanhaken!
+
+**Meedoen? Klik hier!**
 
 
 ## Opdrachten
