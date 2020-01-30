@@ -14,26 +14,7 @@ Nadat je het budget hebt ontvangen ga je een aanbieding reserveren via de websho
 
 **<details><summary> Klik hier om de brief te openen! </summary>**
 
-[]()
 
-
-
-**Budget activeren**<br>
-Ga naar het webadres:[Webshop Berkelland](https://staging.berkelland.forus.io)<br>
-Klik op de knop “Start”<br>
-Stap 1: Typ in het pop-up scherm twee keer uw e-mailadres<br>
-Stap 2: U ontvangt een bevestigingsmail in uw mailbox. Klik op de knop “Ga naar stap 3”<br>
-Stap 3: Typ vervolgens de activatiecode die in deze brief staat in en klik op “Volgende”<br>
-U wordt direct ingelogd op de pagina waar u de voucher(s) kunt zien. De voucher is ook naar uw e-mailadres toegestuurd.
-
-
-Heeft u vragen of loopt u tegen problemen aan? Dan kunt u een e-mail sturen naar [e-mailadres] of bellen met [telefoonnummer]. 
-
-
-
-Met vriendelijke groet,
-
-Team [Kindregelingen]
 
 </details>
 
