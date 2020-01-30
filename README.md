@@ -37,8 +37,10 @@ Tijdens de bijeenkomsten hebben jullie:
 
 Ben je niet bij deze bijeenkomst geweest? Geen probleem, je kan op een later moment ook eenvoudig aanhaken!
 
-**Meedoen? Klik hier!**
+## Leer het systeem kennen!
+**Let op!** Voordat je begint met de werkzaamheden willen we je vragen om eerst kennis te maken met ons systeem om algemene informatie te hebben. [Leer het systeem kennen!](https://github.com/teamforus/scauting/blob/master/opdrachten/README.md)
 
+**Meedoen? Klik hier!**
 
 ## Opdrachten
 We hebben een aantal opdrachten opgesteld op het gebied van systeem testen, handleidingen schrijven en designs maken. Hieronder vind je meer informatie over de opdrachten.
@@ -61,6 +63,7 @@ Het ontwikkelen van nieuwe functionaliteit begint met een ontwerp. Je werkt met 
 
 ### Alle opdrachten
 - **[Klik hier om naar alle opdrachten te gaan](https://github.com/teamforus/scauting/issues)**
+
 
 ## Vragen?
 Heb je vragen of kom je ergens niet uit? 
