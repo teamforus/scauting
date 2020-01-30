@@ -1,3 +1,8 @@
+## Leer het systeem kennen!
+**Let op!** Voordat je begint met de werkzaamheden willen we je vragen om eerst kennis te maken met ons systeem om algemene informatie te hebben. [Leer het systeem kennen!](https://github.com/teamforus/scauting/blob/master/opdrachten/README.md)
+
+Heb je het systeem al leren kennen? Lees dan verder en succes!
+
 # Testen
 
 Forus levert aan haar opdrachtgevers een SaaS (Software as a Service) oplossing.
