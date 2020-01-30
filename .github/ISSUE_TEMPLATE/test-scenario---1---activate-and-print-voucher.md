@@ -11,7 +11,7 @@ Objective: Activating and printing the voucher code is one of the core functiona
 
 # Environment
 
-* Branch: Release **{insert release number}**
+* Branch: Release v.0.8.2
 * Database: Staging
 
 # Pre-conditions
@@ -21,7 +21,7 @@ Objective: Activating and printing the voucher code is one of the core functiona
 
 # Direct URL(s)
 
-1. https://staging.zuidhorn.forus.io
+1. https://staging.berkelland.forus.io/
 2. https://asdasd.nl (used for temporarily mail-address)
 
 # Input data
@@ -35,6 +35,22 @@ Objective: Activating and printing the voucher code is one of the core functiona
 
 1. Unregistered e-mail address
 2. In possession of an activation code
+
+**<details><summary> Click here to open the list of activation codes!</summary>**
+
+| Activatiecodes | Gebruikt? |
+|----------------|-----------|
+| 88b0-c244      |           |
+| c8e5-0ea4      |           |
+| 93ea-76e0      |           |
+| 1b7c-1cef     |           |
+| 8290-9ba1      |           |
+| a1dc-3f6f     |           |
+| 23f0-8c19      |           |
+| c03c-3110    |           |
+| 8339-83c9    |           |
+
+</details>
 
 # Instructions
 
