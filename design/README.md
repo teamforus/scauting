@@ -1,3 +1,8 @@
+## Leer het systeem kennen!
+**Let op!** Voordat je begint met de werkzaamheden willen we je vragen om eerst kennis te maken met ons systeem om algemene informatie te hebben. [Leer het systeem kennen!](https://github.com/teamforus/scauting/blob/master/opdrachten/README.md)
+
+Heb je het systeem al leren kennen? Lees dan verder en succes!
+
 # Design
 Het ontwikkelen van nieuwe functionaliteit begint met een ontwerp. De designer krijgt een opdracht of wijzigingsvoorstel en ontwerpt vervolgens hoe de nieuwe functionaliteit eruit komt te zien. Dit doet de designer aan de hand van standaard huisstijl elementen en naar eigen inzicht. Wanneer er door het team akkoord wordt gegeven op het ontwerp, wordt het overgedragen aan de ontwikkelaar. Forus werkt met het ontwerpprogramma Figma. Figma biedt de mogelijkheid om prototypes te maken waarin de werking, aan de hand van de ontwerpen, wordt gevisualiseerd. Daarnaast worden er communicatie uitingen voor gebruikers ontworpen zoals flyers en informatiefolders.
 
