@@ -1,0 +1,96 @@
+## Hoe nu verder?
+
+Jullie hebben je voorkeur uitgesproken over welke werkzaamheden je graag wilt doen. 
+Op GitHub hebben wij werkinstructies geplaatst die jullie verder kunnen helpen.
+Voordat je de werkzaamheden daadwerkelijk kan uitvoeren dien je algemene kennis over de werking van het systeem te hebben. Daarom hebben wij een paar opdrachten uitgeschreven, maak deze opdrachten eerst voordat je de instructies voor de werkzaaheden volgt.
+
+## Algemene kennis over het systeem
+Om een beeld te krijgen van hoe het systeem werkt vragen we je om enkele opdrachten uit te voeren.
+De opdrachten zijn gebasseerd op de ervaring van daadwerkelijke eindgebruikers. De oprachten voer je uit op een vooringestelde test omgeving.
+
+### Activatie kindregelingen<br>
+Je bent een inwoner van de gemeente Berkelland en hebt een toekenningsbrief gekregen voor de Kindregelingen. Jij gaat het budget van de Kindregelingen activeren door gebruik te maken van de activatiecode in de brief. 
+Nadat je het budget hebt ontvangen ga je een aanbieding reserveren via de webshop. Tot sot ga je de reservering verzilveren bij de organisatie die het aanbod heeft geplaatst.
+
+**<details><summary> Klik hier om de brief te openen! </summary>**
+
+[]()
+
+
+
+**Budget activeren**<br>
+Ga naar het webadres:[Webshop Berkelland](https://staging.berkelland.forus.io)<br>
+Klik op de knop “Start”<br>
+Stap 1: Typ in het pop-up scherm twee keer uw e-mailadres<br>
+Stap 2: U ontvangt een bevestigingsmail in uw mailbox. Klik op de knop “Ga naar stap 3”<br>
+Stap 3: Typ vervolgens de activatiecode die in deze brief staat in en klik op “Volgende”<br>
+U wordt direct ingelogd op de pagina waar u de voucher(s) kunt zien. De voucher is ook naar uw e-mailadres toegestuurd.
+
+
+Heeft u vragen of loopt u tegen problemen aan? Dan kunt u een e-mail sturen naar [e-mailadres] of bellen met [telefoonnummer]. 
+
+
+
+Met vriendelijke groet,
+
+Team [Kindregelingen]
+
+</details>
+
+**<details><summary> Klik hier om een lijst met activatiecodes te openen!</summary>**
+
+| Activatiecodes | Gebruikt? |
+|----------------|-----------|
+| 0000-0000      |           |
+| 0000-0000      |           |
+| 0000-0000      |           |
+| 0000-0000      |           |
+| 0000-0000      |           |
+| 0000-0000      |           |
+| 0000-0000      |           |
+| 0000-0000      |           |
+
+</details>
+
+## Opdrachten
+
+**Opdracht 1**: Activeer het budget van de kindregelingen<br>
+**Vraag**: *Welke regelingen heb je gekregen?*<br>
+
+**Opdracht 2**: Reserveer de aanbieding [aanbieding naam]<br>
+**Vraag**: *Met welke regelingen kun je de aanbieding reserveren?*<br>
+
+**Opdracht 3**: Zoek de winkel waar je de reservering kan verzilveren<br>
+**Vraag**: *Wat is de naam en zijn de contactgegevens van de vestigingen waar je jouw reservering kan verzilveren?*<br>
+
+**Opdracht 4**: Deel jouw voucher met de aanbieder om de betaling te realiseren<br>
+**Vraag**: *Op welke manieren kun je de voucher delen met de aanbieder?*<br>
+
+
+**Opdracht 5**: Ga het overzicht van alle aangesloten aanbieders<br>
+**Vraag**: *Bij hoeveel aanbieders kun je de regeling "Sociaal culturele en sportieve activiteiten" uitgeven?*
+
+**Opdracht 6**: Reserveer de aanbieding [aanbieding naam]<br>
+**Vraag**: *Het reserveren van de aanbieding is niet gelukt, waarom niet?*
+
+**Opdracht 7**: Ga naar het overzicht van alle aangesloten aanbieders, zoek de aanbieder [naam aanbieder] en wissel van lijstweergave naar kaartweegave.<br>
+**Vraag**: *Wat valt je op?*
+
+#### Ben je klaar met de opdrachten? Stuur dan jouw antwoorden op de vragen naar Gerben via Rocket.Chat!
+
+
+## Werkinstructies
+Heb je bovensstaande opdrachten uitgevoerd? Dan kan je beginnen met de door jouw uitgekozen werkzaamheden. 
+De bijbehorende werkzaamheden kun je op [GitHub](https://github.com) vinden.
+
+| Werkzaamheden | Link |
+|----------------|-----------|
+| **Testen**      |    [GitHub](https://github.com)       |
+| **Handleidingen schrijven**     |   [GitHub](https://github.com)        |
+| **Designen**      |     [GitHub](https://github.com)      |
+| **Development**      |      [GitHub](https://github.com)     |
+
+### Waar kan je terecht voor vragen?
+- Rocket.Chat:
+	- Scauting kanaal
+	- Of stel je vraag direct aan Gerben
