@@ -11,9 +11,7 @@ Op GitHub plaatst Forus de benodigde documentatie en de opdrachten waar je aan k
 
 1. Maak een GitHub account aan: [Klik hier om een account aan te maken](https://github.com/join).
 Gebruik hiervoor je eigen of je persoonlijke Scauting e-mailadres.
-2. Log in op GitHub en ga naar deze pagina: https://github.com/teamforus/scauting
-3. Lees de introductie tekst.
-4. Begin met: [Opdracht 1: Leer het systeem kennen!](https://github.com/teamforus/scauting/blob/master/opdrachten/README.md)
+
 
 ### Rocket.Chat
 Rocket.chat is een chat applicatie. Via deze applicatie kan je met Forus communiceren. 
@@ -26,5 +24,8 @@ Gebruik hiervoor je eigen of je persoonlijke Scauting e-mailadres.
 3. Stuur een berichtje naar gerben. Gerben voegt je toe aan het Scauting kanaal.
 
 ## Start
+1. Log in op GitHub en ga naar deze pagina: https://github.com/teamforus/scauting
+2. Lees de introductie tekst.
+
 **Let op!** Voordat je begint met de werkzaamheden willen we je vragen om eerst kennis te maken met ons systeem om algemene informatie te hebben. 
 [Leer het systeem kennen!](https://github.com/teamforus/scauting/blob/master/opdrachten/README.md)
