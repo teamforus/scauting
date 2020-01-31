@@ -25,7 +25,7 @@ Nadat je het budget hebt ontvangen ga je een aanbieding reserveren via de websho
 
 | Activatiecodes | Gebruikt? |
 |----------------|-----------|
-| 6b71-7ce8      |           |
+| 6b71-7ce8      |  <ul><li> -[ ] </li></ul>         |
 | 66ee-11ee      |           |
 | 576f-aff2      |           |
 | 212b-34e7      |           |
