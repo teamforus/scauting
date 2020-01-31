@@ -1,4 +1,4 @@
-# Scauting
+# Scauting - Introductie
 Welkom op GitHub! Dit is de plek waar je alle gegevens kan vinden als je een deelnemer van Scauting bent. Lijkt het je leuk om mee te werken aan onze projecten? Lees dan verder!
 
 ## Over Forus
