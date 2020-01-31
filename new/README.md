@@ -1,4 +1,4 @@
-# Nieuw
+# Nieuwe deelnemer
 Wil je graag bijdragen aan onze opdrachten, maar ben je niet bij de startbijeenkomst geweest?
 Doorloop onderstaande stappen om de benodigde accounts aan te maken.
 
