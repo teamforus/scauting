@@ -68,10 +68,8 @@ Het ontwikkelen van nieuwe functionaliteit begint met een ontwerp. Je werkt met 
 ## Vragen?
 Heb je vragen of kom je ergens niet uit? 
 
-[Rocket.Chat](https://chat.forus.io/home)
-Je kan altijd een bericht sturen: 
--  in het Scauting channel
+Je kan altijd een bericht sturen via [Rocket.Chat](https://chat.forus.io/home): 
+- in het Scauting channel
 - naar linda of gerben
 
-[GitHub](https://github.com/teamforus/scauting/issues)
-Of je vraag stellen in een issue op GitHub.
+Of je vraag stellen in een issue op [GitHub](https://github.com/teamforus/scauting/issues).
