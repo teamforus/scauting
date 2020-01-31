@@ -7,7 +7,7 @@ Wij streven ernaar om samen applicaties te ontwerpen en ontwikkelen die we zelf 
 
 _Platform Forus_ is een digitaal platform voor waarde-uitkering. Het doel van het platform is het uitwisselen van waarde onder bepaalde voorwaarden. Een voorbeeld hiervan is de uitgifte van het Meedoenpakket door de gemeente. Het budget waar een inwoner met kind(-eren) recht op heeft kan alleen worden uitgegeven bij winkels die artikelen voor kinderen verkopen. Door aanbieders en inwoners vooraf te valideren is de rechtmatigheid op voorhand vastgesteld. Dit geeft de garantie dat het budget op de juiste manier wordt besteed. _Me_ dient als profiel voor het platform. Het is een app waarmee gebruikers eenvoudig vouchers kunnen beheren. Het platform en de app zijn constant in ontwikkeling. 
 
-Ben je geïnteresseerd in de ontwikkeling van onze producten? Je kunt de code inzien en de voortgang volgen via onze GitHub-pagina. https://github.com/teamforus
+Ben je geïnteresseerd in de ontwikkeling van onze producten? Je kunt de code inzien en de voortgang volgen via onze [GitHub-pagina](https://github.com/teamforus). 
 
 ## Systeem
 We hebben de Meedoen-regeling voor de gemeente Nijmegen en de Meedoenapplicatie voor de Sociale Dienst Oost Achterhoek via het platform uitgegeven.
