@@ -36,11 +36,11 @@ Tijdens de bijeenkomsten hebben jullie:
 - De eerste bijdrage aan ons systeem geleverd!
 
 Ben je niet bij deze bijeenkomst geweest? Geen probleem, je kan op een later moment ook eenvoudig aanhaken!
+**[Meedoen? Klik hier!](https://github.com/teamforus/scauting/tree/master/new)**
 
 ## Leer het systeem kennen!
 **Let op!** Voordat je begint met de werkzaamheden willen we je vragen om eerst kennis te maken met ons systeem om algemene informatie te hebben. [Leer het systeem kennen!](https://github.com/teamforus/scauting/blob/master/opdrachten/README.md)
 
-**Meedoen? Klik hier!**
 
 ## Opdrachten
 We hebben een aantal opdrachten opgesteld op het gebied van systeem testen, handleidingen schrijven en designs maken. Hieronder vind je meer informatie over de opdrachten.
