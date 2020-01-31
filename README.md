@@ -36,7 +36,7 @@ Tijdens de bijeenkomsten hebben jullie:
 - De eerste bijdrage aan ons systeem geleverd!
 
 Ben je niet bij deze bijeenkomst geweest? Geen probleem, je kan op een later moment ook eenvoudig aanhaken!
-**[Meedoen? Klik hier!](https://github.com/teamforus/scauting/tree/master/new)**
+[Meedoen? Klik hier!](https://github.com/teamforus/scauting/tree/master/new)
 
 ## Leer het systeem kennen!
 **Let op!** Voordat je begint met de werkzaamheden willen we je vragen om eerst kennis te maken met ons systeem om algemene informatie te hebben. [Leer het systeem kennen!](https://github.com/teamforus/scauting/blob/master/opdrachten/README.md)
@@ -53,25 +53,25 @@ Forus het beheer, onderhoud en de doorontwikkeling van de applicatie. Huidige of
 ### Handleidingen
 Voor de verschillende gebruikers die werken met het systeem bieden we een helpcentrum. Hier kan men terecht voor uitleg en instructies. Om het helpcentrum compleet te maken moeten er veel handleidingen geschreven worden en daar kunnen wij jullie hulp goed bij gebruiken. 
 
-- **[Klik hier om meer te lezen over de handleiding opdrachten.](https://github.com/teamforus/scauting/tree/master/handleiding)**
+- [Klik hier om meer te lezen over de handleiding opdrachten.](https://github.com/teamforus/scauting/tree/master/handleiding)
 
 ### Design
 Het ontwikkelen van nieuwe functionaliteit begint met een ontwerp. Je werkt met het ontwerpprogramma Figma. We hebben een aantal opdrachten uitgewerkt waardoor je leert werken met het programma en zelf aan de slag gaat als ontwerper.
 
-- **[Klik hier om meer te lezen over de design opdrachten.](https://github.com/teamforus/scauting/tree/master/design)**
-</details>
+- [Klik hier om meer te lezen over de design opdrachten.](https://github.com/teamforus/scauting/tree/master/design)
+
 
 ### Alle opdrachten
-- **[Klik hier om naar alle opdrachten te gaan](https://github.com/teamforus/scauting/issues)**
+- [Klik hier om naar alle opdrachten te gaan](https://github.com/teamforus/scauting/issues)
 
 
 ## Vragen?
 Heb je vragen of kom je ergens niet uit? 
 
-**[Rocket.Chat](https://chat.forus.io/home)**
+[Rocket.Chat](https://chat.forus.io/home)
 Je kan altijd een bericht sturen: 
 -  in het Scauting channel
 - naar linda of gerben
 
-**[GitHub](https://github.com/teamforus/scauting/issues)**
+[GitHub](https://github.com/teamforus/scauting/issues)
 Of je vraag stellen in een issue op GitHub.
