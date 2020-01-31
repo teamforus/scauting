@@ -25,7 +25,7 @@ Nadat je het budget hebt ontvangen ga je een aanbieding reserveren via de websho
 
 | Activatiecodes | Gebruikt? |
 |----------------|-----------|
-| 6b71-7ce8      |  <ul><li> -[ ] </li></ul>         |
+| 6b71-7ce8      |           |
 | 66ee-11ee      |           |
 | 576f-aff2      |           |
 | 212b-34e7      |           |
@@ -42,7 +42,7 @@ Nadat je het budget hebt ontvangen ga je een aanbieding reserveren via de websho
 **Opdracht 1**: Activeer het budget van de kindregelingen<br>
 **Vraag**: *Welke regelingen heb je gekregen?*<br>
 
-**Opdracht 2**: Reserveer de aanbieding [aanbieding naam]<br>
+**Opdracht 2**: Reserveer de aanbieding Zwem knipkaart voor 8 keer<br>
 **Vraag**: *Met welke regelingen kun je de aanbieding reserveren?*<br>
 
 **Opdracht 3**: Zoek de winkel waar je de reservering kan verzilveren<br>
@@ -55,10 +55,10 @@ Nadat je het budget hebt ontvangen ga je een aanbieding reserveren via de websho
 **Opdracht 5**: Ga het overzicht van alle aangesloten aanbieders<br>
 **Vraag**: *Bij hoeveel aanbieders kun je de regeling "Sociaal culturele en sportieve activiteiten" uitgeven?*
 
-**Opdracht 6**: Reserveer de aanbieding [aanbieding naam]<br>
+**Opdracht 6**: Reserveer de aanbieding [Gerben's poesjes]<br>
 **Vraag**: *Het reserveren van de aanbieding is niet gelukt, waarom niet?*
 
-**Opdracht 7**: Ga naar het overzicht van alle aangesloten aanbieders, zoek de aanbieder [naam aanbieder] en wissel van lijstweergave naar kaartweegave.<br>
+**Opdracht 7**: Ga naar het overzicht van alle aangesloten aanbieders, zoek de aanbieder  en wissel van lijstweergave naar kaartweegave.<br>
 **Vraag**: *Wat valt je op?*
 
 #### Ben je klaar met de opdrachten? Stuur dan jouw antwoorden op de vragen naar Gerben via Rocket.Chat!
