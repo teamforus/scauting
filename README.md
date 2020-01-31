@@ -48,7 +48,7 @@ We hebben een aantal opdrachten opgesteld op het gebied van systeem testen, hand
 ### Testen
 Forus het beheer, onderhoud en de doorontwikkeling van de applicatie. Huidige of nieuwe opdrachtgevers hebben verschillende wensen wat betreft de functionaliteiten die de applicatie biedt. Hierdoor hebben wij doorgaans te maken met doorontwikkeling van de applicatie. Een belangrijk onderdeel van de werkzaamheden bij Forus is het testen van alle functionaliteiten die gebouwd zijn. Het testen kan op verschillende niveau's.
 
-- **[Klik hier om meer te lezen over de test opdrachten.](https://github.com/teamforus/scauting/tree/master/testen)**
+- [Klik hier om meer te lezen over de test opdrachten.](https://github.com/teamforus/scauting/tree/master/testen)
 
 ### Handleidingen
 Voor de verschillende gebruikers die werken met het systeem bieden we een helpcentrum. Hier kan men terecht voor uitleg en instructies. Om het helpcentrum compleet te maken moeten er veel handleidingen geschreven worden en daar kunnen wij jullie hulp goed bij gebruiken. 
