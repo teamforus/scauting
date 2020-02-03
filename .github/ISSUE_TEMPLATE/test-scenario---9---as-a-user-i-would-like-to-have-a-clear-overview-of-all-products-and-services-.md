@@ -24,7 +24,7 @@ Objective: Searching and filtering is important for our users so they will have 
 
 # Direct URL(s)
 
-1. https://staging.berkelland.forus.io
+1. https://https://berkelland.staging.forus.io
 2. https://asdasd.nl (used for temporarily mail-address)
 
 # Prerequisites

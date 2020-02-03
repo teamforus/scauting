@@ -21,7 +21,7 @@ Objective: Using a voucher to do a transaction is one of the core functionalitie
 
 # Direct URL(s)
 
-1. https://staging.berkelland.forus.io
+1. https://https://berkelland.staging.forus.io
 
 # Input data
 

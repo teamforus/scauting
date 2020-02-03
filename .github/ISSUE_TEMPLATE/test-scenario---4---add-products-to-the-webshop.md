@@ -23,7 +23,7 @@ Objective: Add products to the webshop
 # Direct URL(s)
 
 1. https://staging.forus.io/provider
-2. https://staging.berkelland.forus.io/products
+2. https://https://berkelland.staging.forus.io/products
 
 # Input data
 

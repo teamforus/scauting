@@ -16,6 +16,8 @@ In 2019 hebben we voor de gemeente Nijmegen de Meedoen-regeling via het platform
 
 ### Webshop links
 
+> Let op! Onderstaande links mag je niet gebruiken om handelingen uit te voeren, maar alleen om de website te bekijken.
+
 **Gemeente Nijmegen**
 - https://nijmegen.forus.io/
 

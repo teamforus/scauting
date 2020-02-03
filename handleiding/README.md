@@ -65,8 +65,8 @@ Hieronder vindt je een lijst met alles wat je nodig hebt om de werkzaamheden uit
 |--------------------|------------------------------------------------------------|
 | Github     | [GitHub](https://github.com/teamforus/scauting)                            |
 | Helpcentrum      | [Nijmegen helpcentrum](https://help.forus.io) (verouderd)<br>[Algemeen helpcentrum](https://support.forus.io)                            |
-| Testomgeving webshop   | [Webshop Berkelland](https://staging.berkelland.forus.io)<br>[Webshop Winterswijk](https://staging.winterswijk.forus.io)<br>[Webshop Oostgelre](https://staging.oostgelre.forus.io)<br> |
-| Testomgeving sponsor dashboard  | [Sonsor dashboard Berkelland](https://staging.berkelland.forus.io/sponsor)<br>[Sonsor dashboard Winterswijk](https://staging.winterswijk.forus.io/sponsor)<br>[Sonsor dashboard Oostgelre](https://staging.oostgelre.forus.io/sponsor)<br> |
+| Testomgeving webshop   | [Webshop Berkelland](https://https://berkelland.staging.forus.io)<br>[Webshop Winterswijk](https://winterswijk.staging.forus.io)<br>[Webshop Oostgelre](https://oostgelre.staging.forus.io)<br> |
+| Testomgeving sponsor dashboard  | [Sonsor dashboard Berkelland](https://https://berkelland.staging.forus.io/sponsor)<br>[Sonsor dashboard Winterswijk](https://winterswijk.staging.forus.io/sponsor)<br>[Sonsor dashboard Oostgelre](https://oostgelre.staging.forus.io/sponsor)<br> |
 | Tijdelijke e-mailadres aanmaken | [https://asdasd.nl](https://asdasd.nl) |
 
 ## Hoe voer je deze taken uit?

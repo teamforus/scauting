@@ -59,7 +59,7 @@ Hieronder vindt je een lijst met alles wat je nodig hebt om de werkzaamheden uit
 | Wat          | Waar                                                      |
 |--------------------|------------------------------------------------------------|
 | Testscenarios      | [GitHub](https://github.com/teamforus/scauting/issues)                            |
-| Testomgeving   | [Webshop Berkelland](https://staging.berkelland.forus.io)<br>[Webshop Winterswijk](https://staging.winterswijk.forus.io)<br>[Webshop Oostgelre](https://staging.oostgelre.forus.io)<br> |
+| Testomgeving   | [Webshop Berkelland](https://https://berkelland.staging.forus.io)<br>[Webshop Winterswijk](https://winterswijk.staging.forus.io)<br>[Webshop Oostgelre](https://oostgelre.staging.forus.io)<br> |
 | Tijdelijke e-mailadres aanmaken | [https://asdasd.nl](https://asdasd.nl) |
 | Test versie Me-app | [Android](https://drive.google.com/file/d/1rP6ALApMVI2v52_BhGBXc-oplona4ZAR/view?usp=sharing)<br>Me-iOS: Stuur Gerben een bericht via Rocket.Chat. |
 

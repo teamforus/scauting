@@ -21,7 +21,7 @@ Objective: Activating and printing the voucher code is one of the core functiona
 
 # Direct URL(s)
 
-1. https://staging.zuidhorn.forus.io
+1. https://berkelland.staging.forus.io/
 2. https://asdasd.nl (used for temporarily mail-address)
 
 # Input data

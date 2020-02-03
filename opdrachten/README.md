@@ -51,11 +51,10 @@ Nadat je het budget hebt ontvangen ga je een aanbieding reserveren via de websho
 **Opdracht 4**: Deel jouw voucher met de aanbieder om de betaling te realiseren<br>
 **Vraag**: *Op welke manieren kun je de voucher delen met de aanbieder?*<br>
 
-
 **Opdracht 5**: Ga het overzicht van alle aangesloten aanbieders<br>
 **Vraag**: *Bij hoeveel aanbieders kun je de regeling "Sociaal culturele en sportieve activiteiten" uitgeven?*
 
-**Opdracht 6**: Reserveer de aanbieding [Gerben's poesjes]<br>
+**Opdracht 6**: Reserveer de aanbieding Zwemdiploma A<br>
 **Vraag**: *Het reserveren van de aanbieding is niet gelukt, waarom niet?*
 
 **Opdracht 7**: Ga naar het overzicht van alle aangesloten aanbieders, zoek de aanbieder  en wissel van lijstweergave naar kaartweegave.<br>
