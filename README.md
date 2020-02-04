@@ -44,27 +44,27 @@ Ben je niet bij deze bijeenkomst geweest? Geen probleem, je kan op een later mom
 **Let op!** Voordat je begint met de werkzaamheden willen we je vragen om eerst kennis te maken met ons systeem om algemene informatie te hebben. [Leer het systeem kennen!](https://github.com/teamforus/scauting/blob/master/opdrachten/README.md)
 
 
-## Opdrachten
-We hebben een aantal opdrachten opgesteld op het gebied van systeem testen, handleidingen schrijven en designs maken. Hieronder vind je meer informatie over de opdrachten.
+## Werkzaamheden
+We hebben een aantal werkzaamheden uitgewerkt op het gebied van systeem testen, handleidingen schrijven en designs maken. Hieronder vind je meer informatie over de werkzaamheden.
 
 ### Testen
 Forus het beheer, onderhoud en de doorontwikkeling van de applicatie. Huidige of nieuwe opdrachtgevers hebben verschillende wensen wat betreft de functionaliteiten die de applicatie biedt. Hierdoor hebben wij doorgaans te maken met doorontwikkeling van de applicatie. Een belangrijk onderdeel van de werkzaamheden bij Forus is het testen van alle functionaliteiten die gebouwd zijn. Het testen kan op verschillende niveau's.
 
-- [Klik hier om meer te lezen over de test opdrachten.](https://github.com/teamforus/scauting/tree/master/testen)
+- [Klik hier om meer te lezen over de test werkzaamheden.](https://github.com/teamforus/scauting/tree/master/testen)
 
 ### Handleidingen
 Voor de verschillende gebruikers die werken met het systeem bieden we een helpcentrum. Hier kan men terecht voor uitleg en instructies. Om het helpcentrum compleet te maken moeten er veel handleidingen geschreven worden en daar kunnen wij jullie hulp goed bij gebruiken. 
 
-- [Klik hier om meer te lezen over de handleiding opdrachten.](https://github.com/teamforus/scauting/tree/master/handleiding)
+- [Klik hier om meer te lezen over de handleiding werkzaamheden.](https://github.com/teamforus/scauting/tree/master/handleiding)
 
 ### Design
 Het ontwikkelen van nieuwe functionaliteit begint met een ontwerp. Je werkt met het ontwerpprogramma Figma. We hebben een aantal opdrachten uitgewerkt waardoor je leert werken met het programma en zelf aan de slag gaat als ontwerper.
 
-- [Klik hier om meer te lezen over de design opdrachten.](https://github.com/teamforus/scauting/tree/master/design)
+- [Klik hier om meer te lezen over de design werkzaamheden.](https://github.com/teamforus/scauting/tree/master/design)
 
 
 ### Alle opdrachten
-- [Klik hier om naar alle opdrachten te gaan](https://github.com/teamforus/scauting/issues)
+- [Klik hier om naar alle werkzaamheden te gaan](https://github.com/teamforus/scauting/issues)
 
 
 ## Vragen?
