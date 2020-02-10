@@ -11,7 +11,7 @@ Objective: {what's the purpose of the test}
 
 # Environment
 
-* Branch: Release {insert release number}
+* Branch: Release  v0.9.0
 * Database: Staging
 
 # Pre-conditions

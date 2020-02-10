@@ -11,7 +11,7 @@ Objective: Add products to the webshop
 
 # Environment
 
-* Branch: Release v.0.8.2
+* Branch: Release v.0.9.0
 * Database: Staging
 
 # Pre-conditions
@@ -23,7 +23,7 @@ Objective: Add products to the webshop
 # Direct URL(s)
 
 1. https://staging.forus.io/provider
-2. https://https://berkelland.staging.forus.io/products
+2. https://berkelland.staging.forus.io/products
 
 # Input data
 

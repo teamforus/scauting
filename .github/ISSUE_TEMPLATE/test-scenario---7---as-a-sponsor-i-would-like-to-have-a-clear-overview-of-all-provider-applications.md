@@ -11,7 +11,7 @@ assignees: ''
 
 # Environment
 
-* Branch: Release **{insert release number}**
+* Branch: Release v0.9.0
 * Database: Staging
 
 # Pre-conditions
@@ -26,7 +26,7 @@ assignees: ''
 # Input data
 
 1. Email address
-    * 
+    * staging+sdoa@forus.io
 
 # Instructions
 

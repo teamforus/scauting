@@ -11,7 +11,7 @@ Objective: Activating and printing the voucher code is one of the core functiona
 
 # Environment
 
-* Branch: Release v.0.8.2
+* Branch: Release v.0.9.0
 * Database: Staging
 
 # Pre-conditions
@@ -48,7 +48,7 @@ Objective: Activating and printing the voucher code is one of the core functiona
 | a1dc-3f6f     |           |
 | 23f0-8c19      |           |
 | c03c-3110    |      x     |
-| 8339-83c9    |           |
+| 8339-83c9    |      x     |
 
 </details>
 

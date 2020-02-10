@@ -13,7 +13,7 @@ Objective: Searching and filtering is important for our users so they will have 
 
 # Environment
 
-* Branch: Release v0.7.0
+* Branch: Release v0.9.0
 * Database: Staging
 
 # Pre-conditions
@@ -23,7 +23,7 @@ Objective: Searching and filtering is important for our users so they will have 
 
 # Direct URL(s)
 
-1. https://https://berkelland.staging.forus.io
+1. https://berkelland.staging.forus.io
 2. https://asdasd.nl (used for temporarily mail-address)
 
 # Prerequisites

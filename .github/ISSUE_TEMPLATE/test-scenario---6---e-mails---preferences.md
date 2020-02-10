@@ -11,7 +11,7 @@ Objective: Activating and printing the voucher code is one of the core functiona
 
 # Environment
 
-* Branch: Release **{insert release number}**
+* Branch: Release v0.9.0
 * Database: Staging
 
 # Pre-conditions

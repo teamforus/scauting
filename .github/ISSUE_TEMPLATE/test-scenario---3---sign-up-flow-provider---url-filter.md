@@ -11,7 +11,7 @@ Objective: Use this template to check if the URL for the signup flow works prope
 
 # Environment
 
-* Branch: Release v0.8.2
+* Branch: Release v0.9.0
 * Database: Staging
 
 # Pre-conditions
@@ -25,7 +25,7 @@ The URL filter can be filtered based on:
 - Fund ID
 
 # Direct URL(s)
-1. Tag: https://staging.forus.io/provider/sign-up?tag-sdoa 
+1. Tag: https://staging.forus.io/provider/sign-up?tag=sdoa 
 -> 13 regelingen
 2. Organization ID: https://staging.forus.io/provider/sign-up?fund_id=9 
 -> Sociaal culturele en sportieve activiteiten

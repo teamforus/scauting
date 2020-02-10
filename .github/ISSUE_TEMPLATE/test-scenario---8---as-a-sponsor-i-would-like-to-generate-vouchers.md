@@ -11,7 +11,7 @@ Objective: As a sponsor I would like to generate vouchers
 
 # Environment
 
-* Branch: Release **{insert release number}**
+* Branch: Release v0.9.0
 * Database: Staging
 
 # Pre-conditions
@@ -26,7 +26,7 @@ Objective: As a sponsor I would like to generate vouchers
 # Input data
 
 1. Email address
-    * sdoa.demo@forus.io
+    * staging+sdoa@forus.io
 
 # Instructions
 
