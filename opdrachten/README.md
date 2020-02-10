@@ -16,7 +16,8 @@ Nadat je het budget hebt ontvangen ga je een aanbieding reserveren via de websho
 
 
 **<details><summary> Klik hier om de brief te openen! </summary>**
-
+*Let op!* de link die in de brief vermeld staat klopt niet!
+De juiste link is: https://berkelland.staging.forus.io
 <img src="https://user-images.githubusercontent.com/36952230/72791759-2bdd9b00-3c38-11ea-8802-ef9f37ae5364.png">
 
 </details>
